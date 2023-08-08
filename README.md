@@ -18,6 +18,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![image](https://github.com/romesdev/interface-spotify-tailwind/assets/40067566/ad2a1217-cc8a-4975-a5c8-7f6da43ac0d9)
+![image](https://github.com/romesdev/interface-spotify-tailwind/assets/40067566/beb6661d-a95e-4ea0-8160-87bfbb55a5c2)
+
 
 
