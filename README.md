@@ -18,4 +18,6 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/romesdev/interface-spotify-tailwind/assets/40067566/ad2a1217-cc8a-4975-a5c8-7f6da43ac0d9)
+
+
