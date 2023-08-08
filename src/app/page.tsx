@@ -20,7 +20,7 @@ export default function Home() {
 
           </div>
 
-          <h1 className='font-semibold text-3xl mt-10'>Good Moorning</h1>
+          <h1 className='font-semibold text-3xl mt-10'>Good Morning</h1>
           <div className='grid grid-cols-3 gap-4 mt-4'>
             <a href='#' className='bg-white/5 rounded group flex items-center overflow-hidden gap-4 hover:bg-white/10 transition-colors'>
               <Image src="/albums/lecrae.jpg" width={104} height={104} alt="Your Power single"></Image>
